@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Patrick+Hand);
+body
+{
+    background-color: antiquewhite;
+    font-family: "Patrick Hand";
+}
+#score
+{
+    margin-left: auto;
+}
+#time
+{
+    margin-right: auto;
+}
+#used_canvas
+{
+    float: right;
+    color: crimson;
+}
